@@ -1,0 +1,85 @@
+.one
+{
+    color: white;
+    background-color: orangered;
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+}
+.first
+{
+    width: 400px;
+    height: 300px;
+    color: white;
+    background-color: orangered;
+    text-align: center;
+    padding: 50px;
+    border: 10px solid;
+    margin: 40px ;
+    border-radius: 30px;
+}
+.second
+{
+    width: 400px;
+    height: 300px;
+    color: white;
+    background-color: purple;
+    text-align: center;
+    padding: 50px;
+    border: 10px solid;
+    margin: 40px;
+    border-radius: 30px;
+}
+.third
+{
+    width: 400px;
+    height: 300px;;
+    color: white;
+    background-color: orangered;
+    text-align: center;
+    padding: 50px;
+    border: 10px solid;
+    margin: 40px;
+    border-radius: 30px;
+}
+.fifth
+{
+    width: 400px;
+    height: 300px;;
+    color: white;
+    background-color: orangered;
+    text-align: center;
+    padding: 50px;
+    border: 10px solid;
+    margin: 40px;
+    border-radius: 30px;
+}
+.fourth
+{
+    width: 400px;
+    height: 300px;;
+    color: white;
+    background-color: purple;
+    text-align: center;
+    padding: 50px;
+    border: 10px solid;
+    margin: 40px;
+    border-radius: 30px;
+}
+.sixth
+{
+    width: 400px;
+    height: 300px;;
+    color: white;
+    background-color:purple;
+    text-align: center;
+    padding: 50px;
+    border: 10px solid;
+    margin: 40px;
+    border-radius: 30px;
+}
+.main
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
